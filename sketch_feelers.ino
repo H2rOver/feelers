@@ -1,7 +1,12 @@
 /* This sketch demonstrates the function of the Solarbiotic digital feelers
+ *  Left feeler:
  *    Connect "-" to ground
  *    Connect "S" to pin3
  *    Connect an LED to pin2
+ *  Right feeler:
+ *    Connect "-" to ground
+ *    Connect "S" to pin5
+ *    Connect an LED to pin4
  * The LED lights up when contact is made
  * The other connections are unnecessary if you use an internal pullup resistor on the arduino
  */
